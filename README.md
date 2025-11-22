@@ -8,6 +8,6 @@ python app.py
 
 ## Example interaction
 Enter hours studied today: 2
-You are on track to study 14 hours this week.
+You are on track to study 14 hours this week.  
 
 
